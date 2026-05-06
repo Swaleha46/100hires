@@ -18,18 +18,18 @@
 
 ## Issues I Ran Into & How I Solved Them
 
-### Issue 1 — Could not find Extensions panel
+### Issue 1  Could not find Extensions panel
 At first the keyboard shortcut Ctrl+Shift+X was not working.
 I solved this by going to File → Preferences → Extensions from the top menu bar.
 
-### Issue 2 — Claude Code requires paid subscription
+### Issue 2 Claude Code requires paid subscription
 When trying to log in to Claude Code, I received this message:
 "Claude Max or Pro is required to connect to Claude Code."
 Claude Code requires a paid Pro subscription ($20/month) which I do not currently have.
 I documented this issue honestly as part of the process.
 I was still able to install the extension successfully.
 
-### Issue 3 — Cursor showed blank screen initially
+### Issue 3 Cursor showed blank screen initially
 When I first opened Cursor, the full interface was not visible.
 I solved this by clicking "Open Folder" and creating a new folder called "100hires"
 which made the full sidebar and tools appear.
